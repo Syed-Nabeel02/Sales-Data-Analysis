@@ -4,3 +4,5 @@
 - Analyzed the data to make rational claims and judgments on sales.
 ## Tech Used
 - Python, Numpy Pandas, Matplotlib, Jupyter notebooks.
+## Project output
+- View 
