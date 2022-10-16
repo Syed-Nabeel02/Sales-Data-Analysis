@@ -5,4 +5,4 @@
 ## Tech Used
 - Python, Numpy Pandas, Matplotlib, Jupyter notebooks.
 ## Project output
-- View 
+- View Sales_analysis.ipynb file
